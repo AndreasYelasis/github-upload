@@ -1,3 +1,4 @@
 Hello this is a test B.
 I have created new branch add-feature-A and I have done a commit to this branch.
 Now I will merge them with master and delete the new branch.
+Continue to master only.
